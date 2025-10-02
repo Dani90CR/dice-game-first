@@ -39,3 +39,20 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.clicker {
+  text-align: center;
+}
+
+.button {
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  font-size: 25px;
+  background-color: rgb(78, 204, 163);
+  margin: 25px;
+  border-radius: 50%;
+  height: 95px;
+  width: 160px;
+  text-align: center;
+  justify-content: center;
+}
